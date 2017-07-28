@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>blowup</class>
+ <widget class="QDialog" name="blowup">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>198</width>
+    <height>229</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <widget class="QPushButton" name="blowupButton">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>30</y>
+     <width>200</width>
+     <height>200</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="iconSize">
+    <size>
+     <width>199</width>
+     <height>199</height>
+    </size>
+   </property>
+  </widget>
+  <widget class="QLabel" name="blowupLabel">
+   <property name="geometry">
+    <rect>
+     <x>2</x>
+     <y>5</y>
+     <width>121</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>点击图片改变头像</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="blowClose">
+   <property name="geometry">
+    <rect>
+     <x>163</x>
+     <y>4</y>
+     <width>36</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>关闭</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

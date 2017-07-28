@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>background/1.jpg</file>
+        <file>background/2.jpg</file>
+        <file>background/3.jpg</file>
+        <file>background/4.jpg</file>
+        <file>background/5.jpg</file>
+        <file>background/6.jpg</file>
+        <file>background/7.jpg</file>
+        <file>background/regist.jpg</file>
+        <file>background/forget.jpg</file>
+        <file>background/centre.jpg</file>
+        <file>background/空.jpg</file>
+        <file>background/启动.jpg</file>
+        <file>background/喇叭.jpg</file>
+    </qresource>
+</RCC>
